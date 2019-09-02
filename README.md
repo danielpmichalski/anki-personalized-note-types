@@ -16,3 +16,6 @@ This repo holds Anki SRS personalized note types as Anki deck export file
 - **basic-reversed-with-context-source** (fields: {front, back, source} + tags as context)
 - **cloze-with-context** (fields: {text} + tags as context)
 - **cloze-with-context-source** (fields: {text, source} + tags as context)
+
+## Conventions
+- for code/programming related cards: use HTML's &lt;code&gt; tag, e.g. &lt;code&gt;testMe()&lt;/code&gt; -> <code>testMe()</code>
