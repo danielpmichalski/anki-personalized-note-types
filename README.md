@@ -1,6 +1,11 @@
 # anki-personalized-note-types
 This repo holds Anki SRS personalized note types as Anki deck export file
 
+## How to use?
+1. Import the `tmp.apkg`
+2. Delete the imported `tmp` deck
+3. Use newly imported note types
+
 ## Fields description
 - **front**: used for front side of cards
 - **back**: used for back side of cards
